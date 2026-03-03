@@ -1,8 +1,10 @@
 ## Hi there 👋
+![鼠](https://github.com/user-attachments/assets/0a8eb1c5-369c-44a8-ba1c-a8cd3ecd10be)
+
 
 <!--
 **nloukei/nloukei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![鼠](https://github.com/user-attachments/assets/95b3712f-8508-42f0-bec7-d845d5d871ba)
+
 
 Here are some ideas to get you started:
 
