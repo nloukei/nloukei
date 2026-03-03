@@ -7,8 +7,6 @@
     </h1>
     <img src="https://github.com/user-attachments/assets/0a8eb1c5-369c-44a8-ba1c-a8cd3ecd10be" alt="鼠" />
   </div>
-
-   <img src="https://github.com/user-attachments/assets/db75598a-2582-4569-aab0-2bd0639ab1f6" width="280px" alt="dance-cat" />
 </div>
 <br>
 </div>
