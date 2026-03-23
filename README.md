@@ -10,7 +10,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Keith's GitHub Stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&include_all_commits=true" alt="Keith's GitHub Stats" height="170" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nloukei&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Top Languages" height="170" />
   </p>
   
@@ -20,17 +20,18 @@
 
   ### Frontend
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,vue,tailwind,bootstrap,mui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,vue,tailwind,bootstrap,mui&perline=5" />
   </p>
 
   ### Backend & Database
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,c,mysql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,c,mysql,mongodb,firebase&perline=5" />
   </p>
 
   ### Tools & Infrastructure
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,linux,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,linux,androidstudio&perline=5" />
+    <br>
     <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
   </p>
 
