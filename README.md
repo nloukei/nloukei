@@ -40,9 +40,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Team Task & Workload Manager** and **ManPro Payroll System**.
-- 🎓 **DOST-SEI Scholar** passionate about building scalable web applications.
-- ⚡ Fun fact: I enjoy diving into the "Subtle Art of Not Giving a F*ck" while debugging code.
+- I’m currently working on **Team Task & Workload Manager** and **ManPro Payroll System**.
+- **DOST-SEI Scholar** passionate about building scalable web applications.
+- 
 
 ### 📈 My GitHub Activity
 <p align="center">
