@@ -9,7 +9,7 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Keith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Keith's GitHub Stats" />
   
   <br/>
   <br/>
