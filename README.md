@@ -9,9 +9,11 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Keith's GitHub Stats" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Keith's GitHub Stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nloukei&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Top Languages" height="170" />
+  </p>
   
-  <br/>
   <br/>
 
   ## 🛠️ Tech Stack
@@ -42,4 +44,6 @@
 - ⚡ Fun fact: I enjoy diving into the "Subtle Art of Not Giving a F*ck" while debugging code.
 
 ### 📈 My GitHub Activity
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=00000000&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nloukei&theme=dracula&bg_color=00000000&hide_border=true" width="100%" />
+</p>
