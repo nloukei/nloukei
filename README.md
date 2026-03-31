@@ -41,9 +41,9 @@
 
 ### 🚀 About Me
 - 💻 I’m currently working on **Team Task & Workload Manager** and **ManPro Payroll System**.
-- 🎓 **DOST-SEI Scholar** passionate about building scalable web applications.
-- 🔭 Exploring the depths of full-stack development and system architecture.
-- ⚡ Fun fact: I love optimizing workflows to be as efficient as possible.
+- 🎓 **DOST-SEI Scholar**
+- 🔭 Exploring the depths of full-stack development
+- ⚡ Graduating BSIT Student
 
 ### 📈 My GitHub Activity
 <p align="center">
