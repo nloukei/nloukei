@@ -10,8 +10,8 @@
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&include_all_commits=true" alt="Keith's GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nloukei&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="Top Languages" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nloukei&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="Keith's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nloukei&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" height="180" />
   </p>
   
   <br/>
@@ -20,12 +20,12 @@
 
   ### Frontend
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,vue,tailwind,bootstrap,mui&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,vue,tailwind,bootstrap,mui&perline=10" />
   </p>
 
   ### Backend & Database
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,c,mysql,mongodb,firebase&perline=5" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,c,mysql,mongodb,firebase&perline=10" />
   </p>
 
   ### Tools & Infrastructure
@@ -40,11 +40,12 @@
 ---
 
 ### 🚀 About Me
-- I’m currently working on **Team Task & Workload Manager** and **ManPro Payroll System**.
-- **DOST-SEI Scholar** passionate about building scalable web applications.
-- 
+- 💻 I’m currently working on **Team Task & Workload Manager** and **ManPro Payroll System**.
+- 🎓 **DOST-SEI Scholar** passionate about building scalable web applications.
+- 🔭 Exploring the depths of full-stack development and system architecture.
+- ⚡ Fun fact: I love optimizing workflows to be as efficient as possible.
 
 ### 📈 My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nloukei&theme=dracula&bg_color=00000000&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nloukei&theme=dracula&bg_color=00000000&hide_border=true&area=true" width="100%" />
 </p>
