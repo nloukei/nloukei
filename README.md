@@ -41,9 +41,8 @@
 
 ### 🚀 About Me
 - 💻 I’m currently working on **Team Task & Workload Manager** and **ManPro Payroll System**.
-- 🎓 **DOST-SEI Scholar**
+- 🎓 **DOST-SEI Scholar** & BSIT Graduate
 - 🔭 Exploring the depths of full-stack development
-- ⚡ Graduating BSIT Student
 
 ### 📈 My GitHub Activity
 <p align="center">
